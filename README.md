@@ -66,6 +66,10 @@ A comprehensive real-time chat application built with Socket.IO, React, and Node
    pnpm run dev
    ```
 
+   ### screenshots
+   https://prnt.sc/ivTwQSq948YO
+   https://prnt.sc/Ys4WpLk9Z-9e
+
 ## Usage
 
 1. Open the client in your browser.
